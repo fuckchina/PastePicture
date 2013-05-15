@@ -1,0 +1,15 @@
+  #_taPasteFile
+    { 
+    resize:none;
+    overflow: hidden;
+    z-index: y; 
+    clip: rect();
+    width:400px;
+    height:20px;
+    text-align:center;
+    }
+  ._taImg
+    {
+    width:200px;
+    height:100px;
+    }
